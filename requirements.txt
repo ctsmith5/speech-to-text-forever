@@ -1,0 +1,5 @@
+faster-whisper
+sounddevice
+numpy
+pynput
+pyobjc-framework-Quartz; sys_platform == "darwin"
